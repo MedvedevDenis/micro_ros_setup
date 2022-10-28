@@ -47,6 +47,7 @@ install(
     scripts/flash_firmware.sh
     scripts/build_firmware.sh
     scripts/build_agent.sh
+    scripts/build_agent.bat
     scripts/yaml_filter.py
     scripts/clean_env.sh
     scripts/component
